@@ -1,0 +1,69 @@
+0000000000000000000000000000000000000000 6a6f756096de1740df8d1a3ac68dea1b05433449 bim-bima <pahlawanmalas@gmail.com> 1664959389 +0700	clone: from https://github.com/bim-bima/GA-application.git
+6a6f756096de1740df8d1a3ac68dea1b05433449 4c7ddeeafa22fb71330e6f02683091b33f6ec032 bim-bima <pahlawanmalas@gmail.com> 1664959413 +0700	checkout: moving from main to master
+4c7ddeeafa22fb71330e6f02683091b33f6ec032 b189e30a74b912c68eb32caaf52ee730f99e1f85 bim-bima <pahlawanmalas@gmail.com> 1665019833 +0700	commit: landing page
+b189e30a74b912c68eb32caaf52ee730f99e1f85 fa213fe1b227fbfd0585d1559516b3a1bf066929 bim-bima <pahlawanmalas@gmail.com> 1665020080 +0700	commit (merge): landing page
+fa213fe1b227fbfd0585d1559516b3a1bf066929 0ec080963ff3165d8f01f0ee3806907a202045c7 bim-bima <pahlawanmalas@gmail.com> 1665107735 +0700	commit: redisgn
+0ec080963ff3165d8f01f0ee3806907a202045c7 4d0c3f6432ee7ca5e41f1fb31b73168c2df722ab bim-bima <pahlawanmalas@gmail.com> 1665108270 +0700	pull: Fast-forward
+4d0c3f6432ee7ca5e41f1fb31b73168c2df722ab 9a0d59cf8c9abf295e603cd070cf5288a0f6c7b8 bim-bima <pahlawanmalas@gmail.com> 1665132109 +0700	commit: redisgn approval
+9a0d59cf8c9abf295e603cd070cf5288a0f6c7b8 0350cc026185059ab4b8a230cbe0bb1b856b4efb bim-bima <pahlawanmalas@gmail.com> 1665133192 +0700	commit: redign approval
+0350cc026185059ab4b8a230cbe0bb1b856b4efb 92ee26935573d52f14ebe486b31b66a42c2ab5aa bim-bima <pahlawanmalas@gmail.com> 1665139983 +0700	commit: pagination
+92ee26935573d52f14ebe486b31b66a42c2ab5aa 59a8d36613f2807158b233d5cb09fe8bd893a1f1 bim-bima <pahlawanmalas@gmail.com> 1665369230 +0700	pull: Fast-forward
+59a8d36613f2807158b233d5cb09fe8bd893a1f1 e6a8ae64d39179254e6b2b91f7041c8a41f8a50e bim-bima <pahlawanmalas@gmail.com> 1665383078 +0700	commit: redisgn add asset
+e6a8ae64d39179254e6b2b91f7041c8a41f8a50e c9ddd6ac61c0cf9a756fd6224a71351cee2cfa84 bim-bima <pahlawanmalas@gmail.com> 1665383377 +0700	commit (merge): redisgn app asset
+c9ddd6ac61c0cf9a756fd6224a71351cee2cfa84 891df08c7427a89571fceff77a3ef530bb75c493 bim-bima <pahlawanmalas@gmail.com> 1665454254 +0700	commit: ui pengajuan
+891df08c7427a89571fceff77a3ef530bb75c493 de27aaf4b8b716c999841b058d6cf643528fc2f2 bim-bima <pahlawanmalas@gmail.com> 1665454862 +0700	pull: Fast-forward
+de27aaf4b8b716c999841b058d6cf643528fc2f2 6db06336a81182c830f3dd8d398b9a6f75bff675 bim-bima <pahlawanmalas@gmail.com> 1665472287 +0700	commit: app kendaraan
+6db06336a81182c830f3dd8d398b9a6f75bff675 dfe4c49c9d1aa8bc2a76451396ad772e8a6c8368 bim-bima <pahlawanmalas@gmail.com> 1665477038 +0700	commit (merge): ui
+dfe4c49c9d1aa8bc2a76451396ad772e8a6c8368 08b773c9ea88bf1811e972a77acce383f768da02 bim-bima <pahlawanmalas@gmail.com> 1665486159 +0700	commit: commit
+08b773c9ea88bf1811e972a77acce383f768da02 044d03aa1c178c9295c6433d60857b87ff872720 bim-bima <pahlawanmalas@gmail.com> 1665488387 +0700	commit: commit
+044d03aa1c178c9295c6433d60857b87ff872720 fa12c1d5024d7ff6df6ac3e5209deef6903105b2 bim-bima <pahlawanmalas@gmail.com> 1665538303 +0700	pull: Fast-forward
+fa12c1d5024d7ff6df6ac3e5209deef6903105b2 c107af2671d76f174d109b5b6885e9889f8a7167 bim-bima <pahlawanmalas@gmail.com> 1665555713 +0700	commit: commit
+c107af2671d76f174d109b5b6885e9889f8a7167 3eb61c02ea9f70df547fd09cf2c7b06274bc62cb bim-bima <pahlawanmalas@gmail.com> 1665654397 +0700	commit: redisgn
+3eb61c02ea9f70df547fd09cf2c7b06274bc62cb 76bbdf2747610d99d5df6b003d0c87d18a0ad933 bim-bima <pahlawanmalas@gmail.com> 1665711348 +0700	commit: animation
+76bbdf2747610d99d5df6b003d0c87d18a0ad933 2f88314e2e55a7cf2d394858fc48433557468802 bim-bima <pahlawanmalas@gmail.com> 1665717769 +0700	commit: animation
+2f88314e2e55a7cf2d394858fc48433557468802 4a922f684030eed568545f1032f54aa225ce3af6 bim-bima <pahlawanmalas@gmail.com> 1665759346 +0700	commit (merge): evaluasi
+4a922f684030eed568545f1032f54aa225ce3af6 91e70dbc750c1243aef9abbf362af6256d20ea5c bim-bima <pahlawanmalas@gmail.com> 1665901890 +0700	pull: Fast-forward
+91e70dbc750c1243aef9abbf362af6256d20ea5c cfe13236bebefda90f2a9f1631718bd2b50627f9 bim-bima <pahlawanmalas@gmail.com> 1665970243 +0700	commit: evaluasi
+cfe13236bebefda90f2a9f1631718bd2b50627f9 9a29643205674ab9a54f1d6ad9839730016b6986 bim-bima <pahlawanmalas@gmail.com> 1665970250 +0700	pull: Merge made by the 'ort' strategy.
+9a29643205674ab9a54f1d6ad9839730016b6986 8a96ac25c478cb0437cdead06915acdbb0ca77c1 bim-bima <pahlawanmalas@gmail.com> 1665974879 +0700	pull: Merge made by the 'ort' strategy.
+8a96ac25c478cb0437cdead06915acdbb0ca77c1 b52e782c48ac25d27f7bb0d26e7991994c29b3ea bim-bima <pahlawanmalas@gmail.com> 1665975081 +0700	commit: if jika data kosong
+b52e782c48ac25d27f7bb0d26e7991994c29b3ea d4eb57be815ad3be97168835a04def84fdeabb33 bim-bima <pahlawanmalas@gmail.com> 1665978941 +0700	commit: if jika data kosong
+d4eb57be815ad3be97168835a04def84fdeabb33 1671ff5e6bd58dc99b270eee88b287c9f9332103 bim-bima <pahlawanmalas@gmail.com> 1665979938 +0700	commit (merge): fix
+1671ff5e6bd58dc99b270eee88b287c9f9332103 44df62b99624ec0229eaa62c94d635eb233f81a2 bim-bima <pahlawanmalas@gmail.com> 1665991257 +0700	commit: update animation
+44df62b99624ec0229eaa62c94d635eb233f81a2 1d0693bf17f4b6a2cf65d6a3d0ba4bb8cb4a80b3 bim-bima <pahlawanmalas@gmail.com> 1665991335 +0700	pull: Merge made by the 'ort' strategy.
+1d0693bf17f4b6a2cf65d6a3d0ba4bb8cb4a80b3 b8bb5447e8dc689f5d5f91e10ef364a98f7ef966 bim-bima <pahlawanmalas@gmail.com> 1666011366 +0700	commit: ui
+b8bb5447e8dc689f5d5f91e10ef364a98f7ef966 15c6284c2472b9fedeff95fe08b420aa62e8fe5c bim-bima <pahlawanmalas@gmail.com> 1666011373 +0700	pull: Merge made by the 'ort' strategy.
+15c6284c2472b9fedeff95fe08b420aa62e8fe5c f8da9dbbd0fad409960370f1157162a150075ee2 bim-bima <pahlawanmalas@gmail.com> 1666067471 +0700	commit: update
+f8da9dbbd0fad409960370f1157162a150075ee2 d58f2be429577d1a7c65d2f4d515b8678119770d bim-bima <pahlawanmalas@gmail.com> 1666068036 +0700	commit (merge): update
+d58f2be429577d1a7c65d2f4d515b8678119770d e98b98f7074e5105955c0b8729d3d573e63de4b3 bim-bima <pahlawanmalas@gmail.com> 1666069011 +0700	pull: Fast-forward
+e98b98f7074e5105955c0b8729d3d573e63de4b3 ca28b26334a4f43cee9b5c3d716802e7824007b6 bim-bima <pahlawanmalas@gmail.com> 1666069485 +0700	pull: Fast-forward
+ca28b26334a4f43cee9b5c3d716802e7824007b6 04b91fb729a9a7f065787281ca2f4d605abd8995 bim-bima <pahlawanmalas@gmail.com> 1666075535 +0700	commit: update kendaraan
+04b91fb729a9a7f065787281ca2f4d605abd8995 600d2fbb30f4beb603cb457a3ec8bd4acd0e8ca5 bim-bima <pahlawanmalas@gmail.com> 1666075553 +0700	pull: Merge made by the 'ort' strategy.
+600d2fbb30f4beb603cb457a3ec8bd4acd0e8ca5 003c1d38d6b878c07f9d90b08fdde19652882669 bim-bima <pahlawanmalas@gmail.com> 1666147113 +0700	commit: update
+003c1d38d6b878c07f9d90b08fdde19652882669 3472d134d17f51f931221134995bd2c8988e9873 bim-bima <pahlawanmalas@gmail.com> 1666151114 +0700	commit (merge): update
+3472d134d17f51f931221134995bd2c8988e9873 0f8e97fb105dc346279082b10829599e8caf8774 bim-bima <pahlawanmalas@gmail.com> 1666151124 +0700	pull: Merge made by the 'ort' strategy.
+0f8e97fb105dc346279082b10829599e8caf8774 2ed360eafcece87f517856c20f4054a7aca2a761 bim-bima <pahlawanmalas@gmail.com> 1666160275 +0700	pull: Fast-forward
+2ed360eafcece87f517856c20f4054a7aca2a761 67fd58e0355b3bf0ce714870b781f8f3190993fe bim-bima <pahlawanmalas@gmail.com> 1666179994 +0700	commit: update
+67fd58e0355b3bf0ce714870b781f8f3190993fe 5012e161d42865b9647ea902f77ecd2daf3c54ad bim-bima <pahlawanmalas@gmail.com> 1666236887 +0700	commit (merge): update
+5012e161d42865b9647ea902f77ecd2daf3c54ad c49eb2f2b99f54c97980c61ddc66748a73f7cf1c bim-bima <pahlawanmalas@gmail.com> 1666237635 +0700	commit (merge): update
+c49eb2f2b99f54c97980c61ddc66748a73f7cf1c 331d39c1c7aad9c2f5159c0993854806594c8d74 bim-bima <pahlawanmalas@gmail.com> 1666248100 +0700	commit: update
+331d39c1c7aad9c2f5159c0993854806594c8d74 d49086ef6ae769224aebd71b42bee68394f51e27 bim-bima <pahlawanmalas@gmail.com> 1666248542 +0700	commit (merge): update
+d49086ef6ae769224aebd71b42bee68394f51e27 15d20f9a104a211d779572c263f668224fea934e bim-bima <pahlawanmalas@gmail.com> 1666249593 +0700	commit: update
+15d20f9a104a211d779572c263f668224fea934e b0f62ac846703bfd631a959e4d77c57ddd23a8b4 bim-bima <pahlawanmalas@gmail.com> 1666264773 +0700	commit: update
+b0f62ac846703bfd631a959e4d77c57ddd23a8b4 8e8d46b19ee63f8a1246a330bcaea1c1ccd11b95 bim-bima <pahlawanmalas@gmail.com> 1666265246 +0700	commit (merge): update
+8e8d46b19ee63f8a1246a330bcaea1c1ccd11b95 1c7776f33dc13f2853d6e9b7a9dece0ca2fa4789 bim-bima <pahlawanmalas@gmail.com> 1666270391 +0700	commit: update
+1c7776f33dc13f2853d6e9b7a9dece0ca2fa4789 36ca4d81c612b54253e31e8b3e9400bb856e0df2 bim-bima <pahlawanmalas@gmail.com> 1666321912 +0700	commit: update table
+36ca4d81c612b54253e31e8b3e9400bb856e0df2 67d680f1d265935d1194e525e8ca48e6c71f0e3f bim-bima <pahlawanmalas@gmail.com> 1666322232 +0700	commit (merge): update table
+67d680f1d265935d1194e525e8ca48e6c71f0e3f a13e461dee2055f059a79756b940f08f4059ae0f bim-bima <pahlawanmalas@gmail.com> 1666341771 +0700	commit: update table
+a13e461dee2055f059a79756b940f08f4059ae0f 68b6a21741cfde64b0a4d76323829501aa38463e bim-bima <pahlawanmalas@gmail.com> 1666535211 +0700	commit (merge): update table
+68b6a21741cfde64b0a4d76323829501aa38463e a2760eeba9b204c0478e2caf0fd39736182f13bd bim-bima <pahlawanmalas@gmail.com> 1666535229 +0700	commit: update table
+a2760eeba9b204c0478e2caf0fd39736182f13bd f468af12703d7b0947d449a94ce6d4f4dc528a1c bim-bima <pahlawanmalas@gmail.com> 1666535743 +0700	commit (merge): update table
+f468af12703d7b0947d449a94ce6d4f4dc528a1c d2dd5f2083560c806caf9938fbb4fc0901f9fbe0 bim-bima <pahlawanmalas@gmail.com> 1666585343 +0700	commit: format tanggal
+d2dd5f2083560c806caf9938fbb4fc0901f9fbe0 8db71460e03e2e467f509e0684311aa2e8e74534 bim-bima <pahlawanmalas@gmail.com> 1666585352 +0700	pull: Merge made by the 'ort' strategy.
+8db71460e03e2e467f509e0684311aa2e8e74534 b72af8a64335fddb8aabc79c6c06a245a0a26ca5 bim-bima <pahlawanmalas@gmail.com> 1666594878 +0700	commit: pindah halaman
+b72af8a64335fddb8aabc79c6c06a245a0a26ca5 fd8807b5f3911e40f3cdf527fb63bc70da027e33 bim-bima <pahlawanmalas@gmail.com> 1666594990 +0700	commit (merge): pindah halaman
+fd8807b5f3911e40f3cdf527fb63bc70da027e33 012f87b802773ff0d90aa402ecee5fd4bb7f9c21 bim-bima <pahlawanmalas@gmail.com> 1666596998 +0700	commit: update
+012f87b802773ff0d90aa402ecee5fd4bb7f9c21 955a5cc22a5231ec2275f955108479de0b2ed61b bim-bima <pahlawanmalas@gmail.com> 1666597005 +0700	pull: Merge made by the 'ort' strategy.
+955a5cc22a5231ec2275f955108479de0b2ed61b 1f86bd515a75ce6688a364cabb6470510fed278d bim-bima <pahlawanmalas@gmail.com> 1666678999 +0700	commit: update
+1f86bd515a75ce6688a364cabb6470510fed278d 03b668d267b72f2f30d7cfcbdbb2a9f02790c1df bim-bima <pahlawanmalas@gmail.com> 1666679005 +0700	pull: Merge made by the 'ort' strategy.
+03b668d267b72f2f30d7cfcbdbb2a9f02790c1df 48de879285aa8f8289d5da05be3be6397611e152 bim-bima <pahlawanmalas@gmail.com> 1666779738 +0700	commit: update
